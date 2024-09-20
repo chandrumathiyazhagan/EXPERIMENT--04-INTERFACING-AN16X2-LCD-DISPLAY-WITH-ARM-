@@ -417,8 +417,8 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 # LED is on:
 
-![4 1](https://github.com/user-attachments/assets/aa835bc3-dedf-425f-bff9-5e232fb6a3b7)
- 
+![pmc_page-0001](https://github.com/user-attachments/assets/25a8870b-a507-453f-b3ea-ab08a27c11cd)
+
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
  
  ![4 2](https://github.com/user-attachments/assets/b56df196-d95e-426f-bb7b-5ab17063acbc)
