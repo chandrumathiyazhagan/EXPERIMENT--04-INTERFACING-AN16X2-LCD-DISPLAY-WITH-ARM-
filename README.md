@@ -120,9 +120,9 @@ Jump to second line, position 2
  
 ## Procedure:
 
- 1. click on STM 32 CUBE IDE, the following screen will appear 
+1. click on STM 32 CUBE IDE, the following screen will appear 
 
- 2. click on FILE, click on new stm 32 project 
+2. click on FILE, click on new stm 32 project 
 
 3. select the target to be programmed  as shown below and click on next 
 
