@@ -1,4 +1,4 @@
-# EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM AND DISPLAY STRING
+# EXPERIMENT--03-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM AND DISPLAY STRING
 
 
  ## Aim: To Interface a 16X2 LCD display to ARM controller  , and simulate it in Proteus 
@@ -160,9 +160,9 @@ static void MX_GPIO_Init(void);
 void lcd_display()
 {
 	Lcd_cursor(&lcd,0,1);
-	Lcd_string(&lcd,"Aaron Rajesh J\n");
+	Lcd_string(&lcd,"Chandru M\n");
 	Lcd_cursor(&lcd,1,1);
-	Lcd_string(&lcd,"212223100001");
+	Lcd_string(&lcd,"212222230026");
 
 	for(int x=0; x<100; x++)
 	{
